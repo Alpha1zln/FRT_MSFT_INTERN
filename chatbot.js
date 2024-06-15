@@ -34,8 +34,10 @@ const userMessage = [
     ["i want to do booking", "do booking", "book appointment", "book", "book date", "book on date", "appointment", "book on date and time"],
     ["book appointment"],
     ["appointment"],
+    ["fever"],
+    ["corona"],
 
-    ["how is corona", "how is covid 19", "how is covid19 situation"],
+    ["how is corona", "how is covid 19", "how is covid19 situation", "what is corona"],
     ["what are you doing", "what is going on", "what is up"],
     ["how old are you"],
     ["who are you", "what are you", "are you human", "are you bot", "are you human or bot"],
@@ -78,8 +80,10 @@ const botReply = [
       "Fantastic, how are you?"
     ],
     ["Please mention the doctor's name and date & time", "Please mention, Doctor's name and date & time"],
-    ["Kindly mention, Dr's name and Date & Time"],
-    ["Mention, Dr's name and Date & Time"],
+    ["Kindly mention, Doctor's name and Date & Time"],
+    ["Mention, Doctor's name and Date & Time"],
+    ["Rest and drink plenty of fluids. Medication isn't needed. Call the doctor if the fever is accompanied by a severe headache, stiff neck, shortness of breath, or other unusual signs or symptoms."],
+    ["Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus. Most people infected with the virus will experience mild to moderate respiratory illness and recover without requiring special treatment."],
 
     ["Getting better. There?", "Somewhat okay!", "Yeah fine. Better stay home!"],
     [
