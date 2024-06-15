@@ -1,8 +1,11 @@
 # FUTURE_READY_TALENT_MICROSOFT_INTERNS
 FRT [FUTURE_READY_TALENT] MICROSOFT INTERNSHIP - SUMMER 2024
 
-1- FRT PROJECT : 
+1- FRT PROJECT TITLE : 
 Health Clinic supported by healthbot created by AZURE QNA MAKER [for health related Q&A] and chatbot [manual , for booking]
+
+INDUSTRY: HEALTH
+
 
 2-
 PROBLEM STATEMENT:
@@ -30,10 +33,11 @@ By leveraging Azure's Healthbot service, we ensure scalability, reliability, and
 
 
 
+
 4- TECH STACK USED : 
   - HTML, CSS, JS
-  - VSCODE SW
   - AZURE AND ITS SVCS.
+  - IDE : VSCODE SW
 
 
 
@@ -43,6 +47,20 @@ https://alpha1zln.github.io/FUTURE_READY_TALENT_MICROSOFT_INTERN.github.io/
 
 It is running successfully on GITHUB.
 
+5a- Homepage:
+![image](https://github.com/Alpha1zln/FUTURE_READY_TALENT_MICROSOFT_INTERN.github.io/assets/98889077/028436ba-5b5b-4ab8-bbd2-16ba5419003b)
+
+5b- About section:
+![image](https://github.com/Alpha1zln/FUTURE_READY_TALENT_MICROSOFT_INTERN.github.io/assets/98889077/c34a2610-3386-4ef7-af46-07128bf9ed66)
+
+5c- Doctors section:
+![image](https://github.com/Alpha1zln/FUTURE_READY_TALENT_MICROSOFT_INTERN.github.io/assets/98889077/6ac6686a-5f03-4163-8a03-ace1b4f1eae7)
+
+5d- Chatbot_booking: 
+![image](https://github.com/Alpha1zln/FUTURE_READY_TALENT_MICROSOFT_INTERN.github.io/assets/98889077/39bc7b78-ed4f-46be-9777-58f513659372)
+
+5e- Chatbot_health:
+![image](https://github.com/Alpha1zln/FUTURE_READY_TALENT_MICROSOFT_INTERN.github.io/assets/98889077/5022d4a4-84c0-465d-a409-7de8b451b94c)
 
 
 6-
@@ -52,6 +70,17 @@ AZURE SERVICES THAT ARE REQUIRED -
   - VS CODE
   - QNA MAKER
   - HEALTH BOT
+
+HOME - AZURE
+![image](https://github.com/Alpha1zln/FUTURE_READY_TALENT_MICROSOFT_INTERN.github.io/assets/98889077/f4a0c0c2-539a-4869-87df-5231d1052faf)
+
+6a-
+![image](https://github.com/Alpha1zln/FUTURE_READY_TALENT_MICROSOFT_INTERN.github.io/assets/98889077/f164b69c-d043-425b-b25a-415a3ae32ff2)
+
+6b- 
+
+![image](https://github.com/Alpha1zln/FUTURE_READY_TALENT_MICROSOFT_INTERN.github.io/assets/98889077/b63d4bec-d8ca-423b-95fc-676b7fe1cbf2)
+
 
 
 
