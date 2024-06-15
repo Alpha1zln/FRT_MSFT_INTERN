@@ -1,10 +1,14 @@
 # FUTURE_READY_TALENT_MICROSOFT_INTERNS
 FRT [FUTURE_READY_TALENT] MICROSOFT INTERNSHIP - SUMMER 2024
 
+DEPLOYED : 
+https://alpha1zln.github.io/FUTURE_READY_TALENT_MICROSOFT_INTERN.github.io/
+
+
 1- FRT PROJECT TITLE : 
 Health Clinic supported by healthbot created by AZURE QNA MAKER [for health related Q&A] and chatbot [manual , for booking]
 
-INDUSTRY: HEALTH
+INDUSTRY: "HEALTH"
 
 
 2-
@@ -37,7 +41,7 @@ By leveraging Azure's Healthbot service, we ensure scalability, reliability, and
 4- TECH STACK USED : 
   - HTML, CSS, JS
   - AZURE AND ITS SVCS.
-  - IDE : VSCODE SW
+  - IDE: VSCODE SW
 
 
 
@@ -63,7 +67,31 @@ It is running successfully on GITHUB.
 ![image](https://github.com/Alpha1zln/FUTURE_READY_TALENT_MICROSOFT_INTERN.github.io/assets/98889077/5022d4a4-84c0-465d-a409-7de8b451b94c)
 
 
-6-
+6- VSCODE CODES - 
+6A-
+HTML
+![image](https://github.com/Alpha1zln/FUTURE_READY_TALENT_MICROSOFT_INTERN.github.io/assets/98889077/a0a202dc-04d8-4456-b26a-853e5fc7f412)
+
+
+6B-
+STYLES.CSS
+![image](https://github.com/Alpha1zln/FUTURE_READY_TALENT_MICROSOFT_INTERN.github.io/assets/98889077/f726027c-02e4-4543-8f94-dd06fcd74d82)
+
+6C-
+CHATBOT.JS - FOR CHATBOT_BOOKING
+![image](https://github.com/Alpha1zln/FUTURE_READY_TALENT_MICROSOFT_INTERN.github.io/assets/98889077/4da092ee-8ca1-4074-8ecf-4471863e4c4b)
+
+6D-
+STYLE.CSS [FOR CHATBOT_BOOKING]
+![image](https://github.com/Alpha1zln/FUTURE_READY_TALENT_MICROSOFT_INTERN.github.io/assets/98889077/868a023d-0c83-421b-9a43-5644be993486)
+
+6F-
+SCRIPT.JS - FOR INCLUSION OF CHATBOT_HEALTH
+![image](https://github.com/Alpha1zln/FUTURE_READY_TALENT_MICROSOFT_INTERN.github.io/assets/98889077/eab18fb7-7127-489f-833e-e43815edeec6)
+
+
+
+7-
 AZURE SERVICES THAT ARE REQUIRED - 
   - AZURE STORAGE
   - AZURE STATIC WEB
@@ -71,18 +99,64 @@ AZURE SERVICES THAT ARE REQUIRED -
   - QNA MAKER
   - HEALTH BOT
 
+Integrating an HTML, CSS, and JavaScript-based web application with Azure's QnA Maker bot service involves several steps. Below is a step-by-step guide along with the necessary code:
+I-
+Set up the QnA Maker Service in Azure:
+II-
+Create a QnA Maker resource in the Azure portal.
+Set up your knowledge base with QnA pairs.
+Publish your QnA Maker knowledge base.
+Obtain your QnA Maker endpoint key, knowledge base ID, and endpoint URL from the Azure portal.
+Create HTML Structure:
+III-
+Design a basic HTML structure for the chat interface.
+Style the Chat Interface with CSS:
+Use CSS to style your chat interface.
+Write JavaScript to Connect to QnA Maker:
+IV-
+Use JavaScript to send and receive messages from the QnA Maker service.
+V-
+Replace YOUR_QNA_MAKER_ENDPOINT, YOUR_QNA_MAKER_KB_ID, and YOUR_QNA_MAKER_ENDPOINT_KEY with the actual values from your QnA Maker service.
+
+
 HOME - AZURE
 ![image](https://github.com/Alpha1zln/FUTURE_READY_TALENT_MICROSOFT_INTERN.github.io/assets/98889077/f4a0c0c2-539a-4869-87df-5231d1052faf)
 
-6a-
+
 ![image](https://github.com/Alpha1zln/FUTURE_READY_TALENT_MICROSOFT_INTERN.github.io/assets/98889077/f164b69c-d043-425b-b25a-415a3ae32ff2)
 
-6b- 
+![image](https://github.com/Alpha1zln/FUTURE_READY_TALENT_MICROSOFT_INTERN.github.io/assets/98889077/2b0d8853-4ec1-4400-996f-6c3d4db6fde3)
+
+ 
+![image](https://github.com/Alpha1zln/FUTURE_READY_TALENT_MICROSOFT_INTERN.github.io/assets/98889077/f76573e5-e55b-429a-a5a3-1557de95e206)
+
+![image](https://github.com/Alpha1zln/FUTURE_READY_TALENT_MICROSOFT_INTERN.github.io/assets/98889077/3ec38eb7-e519-42c3-bf0c-48642b8cfab0)
+
+![image](https://github.com/Alpha1zln/FUTURE_READY_TALENT_MICROSOFT_INTERN.github.io/assets/98889077/3ef564ac-5917-4ac3-9742-18286af2424f)
+
+
+![image](https://github.com/Alpha1zln/FUTURE_READY_TALENT_MICROSOFT_INTERN.github.io/assets/98889077/42b0e6a7-1a23-4a5b-be80-27e8e45591fa)
+
 
 ![image](https://github.com/Alpha1zln/FUTURE_READY_TALENT_MICROSOFT_INTERN.github.io/assets/98889077/b63d4bec-d8ca-423b-95fc-676b7fe1cbf2)
 
 
 
+8-
+ACKNOWLEDGEMENT-
+I would like to extend my heartfelt gratitude to Microsoft for providing the Remote Azure Internship courses and the incredible internship opportunity. The comprehensive training and hands-on experience have been invaluable in enhancing my knowledge and skills in cloud computing and related technologies.
 
+I am particularly grateful for the following courses that were part of this remarkable learning journey:
+
+Azure Fundamentals: This course laid a strong foundation in cloud concepts, core Azure services, and solutions, enabling me to understand the essential aspects of Azure.
+Machine Learning (ML): The ML course equipped me with the knowledge to build, train, and deploy machine learning models, enhancing my ability to work with data-driven solutions.
+Computer Vision: Through this course, I gained insights into the capabilities of computer vision technology and learned to implement various applications using Azure's AI services.
+Natural Language Processing (NLP): The NLP course provided me with the skills to process and analyze human language data, opening up possibilities for developing intelligent applications.
+Generative AI: This course introduced me to the cutting-edge field of generative AI, where I learned to create innovative solutions using advanced AI models.
+Azure Developer, Administrator, Security, and Business Intelligence (BI): These courses offered a deep dive into the roles and responsibilities of Azure professionals, covering development, administration, security, and business intelligence, thus broadening my expertise.
+GitHub Course: The GitHub course taught me essential version control and collaboration techniques, which are crucial for modern software development.
+Special thanks to the Azure team for their guidance, support, and encouragement throughout the internship. The practical insights and real-world applications have significantly contributed to my professional growth.
+
+Thank you, Microsoft, for this transformative experience and for empowering aspiring professionals to achieve their goals.
 
 
