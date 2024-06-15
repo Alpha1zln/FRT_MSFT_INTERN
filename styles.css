@@ -167,3 +167,15 @@ footer {
     border-radius: 80%;
 } 
 
+
+.doctor-card img {
+    width: 50%;
+    height: 60%;
+    object-fit: cover;
+}
+
+.doctor-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
